@@ -1,0 +1,22 @@
+{
+  "itemGroup.skywarddive": "天际俯冲",
+  "item.skywarddive.titan_armor": "来自未知世界的泰坦装甲",
+  "item.skywarddive.titan_armor.not_enough_food": "饱食度不足，无法启动天际俯冲！",
+  "item.skywarddive.launch_beacon.hovering": "悬停中……其他玩家可右键点击你加入天际俯冲！",
+  "item.skywarddive.launch_beacon.joined": "我加入了天际俯冲！",
+  "item.skywarddive.launch_beacon.player_joined": "%s 加入了天际俯冲！",
+  "item.skywarddive.launch_beacon.launching": "起飞！",
+  "item.skywarddive.launch_beacon.already_in_session": "你已经在一次起飞过程中了！",
+  "item.skywarddive.launch_beacon.session_cancelled": "天际俯冲已取消。",
+  "item.skywarddive.launch_beacon.you_left": "你离开了天际俯冲。",
+  "item.skywarddive.launch_beacon.passenger_left": "%s 离开了天际俯冲。",
+  "item.skywarddive.launch_beacon.gliding": "开始滑翔！编队锁定。",
+  "item.skywarddive.launch_beacon.countdown": "%s 秒后起飞……",
+  "item.skywarddive.kidnap_beacon.no_victims": "附近没有可绑架的生物。",
+  "item.skywarddive.kidnap_beacon.launched": "成功绑架了 %s 个生物！",
+  "item.skywarddive.kidnap_beacon.kidnapped": "你被绑架进了天际俯冲！",
+  "key.categories.skywarddive": "天际俯冲",
+  "key.skywarddive.launch": "启动天际俯冲",
+  "key.skywarddive.kidnap": "启动绑架俯冲",
+  "effect.skywarddive.sky_gliding": "天际俯冲"
+}

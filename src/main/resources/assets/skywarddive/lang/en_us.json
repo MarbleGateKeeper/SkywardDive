@@ -1,0 +1,22 @@
+{
+  "itemGroup.skywarddive": "Skyward Dive",
+  "item.skywarddive.titan_armor": "Titan Armor from an Unknown World",
+  "item.skywarddive.titan_armor.not_enough_food": "Not enough food to activate Skyward Dive!",
+  "item.skywarddive.launch_beacon.hovering": "Hovering — teammates can right-click you to join the launch!",
+  "item.skywarddive.launch_beacon.joined": "Joined the launch queue!",
+  "item.skywarddive.launch_beacon.player_joined": "%s joined the launch!",
+  "item.skywarddive.launch_beacon.launching": "Launch!",
+  "item.skywarddive.launch_beacon.already_in_session": "You are already in a launch session!",
+  "item.skywarddive.launch_beacon.session_cancelled": "Launch cancelled.",
+  "item.skywarddive.launch_beacon.you_left": "You left the sky dive.",
+  "item.skywarddive.launch_beacon.passenger_left": "%s left the launch.",
+  "item.skywarddive.launch_beacon.gliding": "Gliding! Formation locked.",
+  "item.skywarddive.launch_beacon.countdown": "Launching in %s...",
+  "item.skywarddive.kidnap_beacon.no_victims": "No nearby creatures to kidnap.",
+  "item.skywarddive.kidnap_beacon.launched": "Kidnapped %s creature(s)!",
+  "item.skywarddive.kidnap_beacon.kidnapped": "You've been kidnapped into a sky dive!",
+  "key.categories.skywarddive": "Skyward Dive",
+  "key.skywarddive.launch": "Activate Skyward Dive",
+  "key.skywarddive.kidnap": "Activate Kidnap Dive",
+  "effect.skywarddive.sky_gliding": "Sky Gliding"
+}
